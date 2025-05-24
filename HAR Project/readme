@@ -1,1 +1,4 @@
 This is a HUMAN ACTIVITY RECOGNITION Project
+NOTE : Please download the resnet-34.onnx file from gfg or another source and store in respective
+location provided in the 'Directory Structure'
+If this is not done, the project will not run.
